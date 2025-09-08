@@ -6,7 +6,7 @@ const Home = () => {
       <img
         src={gif}
         alt="profile"
-        className="relative w-full h-full opacity-12 md:w-100 md:h-100 md:opacity-100 md:p-10"
+        className="relative w-full h-full opacity-20 md:w-100 md:h-100 md:opacity-100 md:p-10"
       />
       <div className="absolute md:static flex flex-col justify-center items-center p-2">
         <span className="text-white sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl 2xl:text-6xl text-bold hover:tracking-widest transition-all duration-300 origin-left cursor-pointer">
