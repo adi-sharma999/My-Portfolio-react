@@ -21,7 +21,7 @@ const Projects = () => {
                             </div>
                         </div>
                         <div className="flex justify-center md:justify-end items-center">
-                            <button onClick={() => window.open("https://money-manager-app999.netlify.app/login", "_blank")} className="text-red-500 text-[7.5px] px-1.5 py-0.5 md:text-xl border-1 rounded-full md:px-4 md:py-2 hover:text-white transition-all duration-300 origin-left cursor-pointer">
+                            <button onClick={() => window.open("https://money-manager-app999.netlify.app/home", "_blank")} className="text-red-500 text-[7.5px] px-1.5 py-0.5 md:text-xl border-1 rounded-full md:px-4 md:py-2 hover:text-white transition-all duration-300 origin-left cursor-pointer">
                                 View Money-Manager
                             </button>
                         </div>
